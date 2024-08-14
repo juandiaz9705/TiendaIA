@@ -1,1 +1,30 @@
+1. Clonar repositorio
+
+git clone https://github.com/juandiaz9705/TiendaIA.git
+
+
+2. Navegar al Directorio del Proyecto:
+
+Después de clonar el repositorio, navega al directorio del proyecto con el siguiente comando:
+
+cd TiendaIA
+
+3. Descargar Modelos:
+
+Descarga los modelos desde este enlace de Google Drive. https://drive.google.com/drive/folders/1R0x0iqFLsVzQ_613yEnvtNELDCJYLgdV?usp=drive_link
+Coloca los archivos descargados en la carpeta Modelos dentro del directorio del proyecto.
+
+4. Instalar las Dependencias Requeridas:
+
+Asegúrate de tener Python instalado en tu computadora. Puedes descargarlo desde python.org.
+Instala las bibliotecas necesarias de Python ejecutando:
+
+pip install -r requirements.txt
+
+5. Ejecutar la Aplicación:
+
+Una vez que todas las dependencias estén instaladas, ejecuta la aplicación utilizando el siguiente comando:
+
+python TiendaIA.py
+
 
